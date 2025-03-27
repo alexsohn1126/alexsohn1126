@@ -20,6 +20,10 @@ You can check out this fun interactive map I have made on the dataset for this p
 
 This is my main portfolio link, I have used HTMX along with TailwindCSS to make it!
 
+##### canuck-carto
+
+This compiles over 200,000 businesses in Canada, and helps Canadians find Canadian/local stores and businesses in a single map. Check it out at [canuckcarto.ca](https://canuckcarto.ca/) 
+
 #### Links
 [Linkedin](https://www.linkedin.com/in/moohaeng-sohn/)
 
