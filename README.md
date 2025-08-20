@@ -2,7 +2,7 @@
 
 This is my Github page, you can check out what I have worked on here!
 
-I am looking for an entry-level software developer job.. If you would like to refer me, please reach out on LinkedIn!
+I am currently working for @getsentry!
 
 ### Project Overviews
 
