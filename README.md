@@ -2,7 +2,7 @@
 
 This is my Github page, you can check out what I have worked on here!
 
-I am currently working for @getsentry/staff!
+I am currently working for Sentry!
 
 ### Project Overviews
 
